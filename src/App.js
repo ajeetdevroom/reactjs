@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div id='app-dashboard-container'>
       You react app is running now...
     </div>
   );
