@@ -1,0 +1,14 @@
+.redBtn{
+    color:#fff;
+    background-color: #ff0202;
+    border-radius: 15px;
+    padding: 5px 15px;
+    font-size: 15px;
+}
+.redBtn:hover{
+    color:#fff;
+    background-color: rgb(10, 155, 94);
+    border-radius: 15px;
+    padding: 5px 15px;
+    font-size: 15px;
+}

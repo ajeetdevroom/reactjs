@@ -1,0 +1,8 @@
+.paraBrown{
+    background-color: brown;
+    color: white;
+    padding: 5px;
+}
+.paraBlue:hover{
+    cursor: pointer;
+}
