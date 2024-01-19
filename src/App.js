@@ -1,10 +1,10 @@
 import './App.css';
-
+import UserForm from './components/UserForm';
 
 function App() {
   return (
-    <div id='app-dashboard-container'>
-      You react app is running now...
+    <div >
+     <UserForm/>
     </div>
   );
 }
