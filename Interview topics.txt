@@ -1,0 +1,22 @@
+Code splitting -  React.lazy() with Suspense, Dynamic Import, React Router with Code Splitting:
+App/ global level - Error handeling (errorBoundry component or sentry lib.)
+component level - Error handeling
+Authenticate and Authorisation
+Security - protected route, cookies, token
+improve Performance - fast loading
+improve Performance - API responsce (load balancer)
+improve Performance - component level loading and rendering
+Aplication code optimization
+component State maangement -  (props and state)
+App/ Global State maangement -  RTK
+class component - Lifecycle function
+Functional component - Hooks
+controled and uncontrolled components
+Middleware
+Intercepter
+Services
+Protected route
+HTMl new featute
+CSS new Feature
+Javascript New feature
+test case
